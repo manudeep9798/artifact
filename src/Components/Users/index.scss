@@ -1,0 +1,26 @@
+.profile-container {
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color: #1a1a1a;
+  display: flex;
+  justify-content: center;
+}
+
+.modal-box{
+    width: 50%;
+    min-height: 400px;
+    margin: auto;
+    background-color: white;
+    border-radius: 12px;
+    padding: 12px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.submit-btn{
+    background-color: #1a1a1a;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+}

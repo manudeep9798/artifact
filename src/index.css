@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.flex-2{
+  flex:2;
+}
+
+.w-100p{
+  width:100%;
+}
+
+.c-pointer{
+  cursor: pointer;
+}
+
+.pr-12{
+  padding-right: 48px;
+}
